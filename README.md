@@ -1,2 +1,2 @@
 # CppPrimerPlus
-Programming Exercises from the book
+My personal implementation of programming exercises from the book
